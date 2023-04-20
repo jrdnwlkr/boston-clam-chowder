@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../gitlab/NU-VIRT-FSF-PT-03-2023-U-LOLC/03-JavaScript/03-Algorithms"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Develop"
+	}
+}
