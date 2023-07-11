@@ -1,13 +1,13 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"path": "../../../gitlab/NU-VIRT-FSF-PT-03-2023-U-LOLC/04-Web-APIs/01-Activities/28-Stu_Mini-Project"
 		},
 		{
-			"path": "../../../gitlab/NU-VIRT-FSF-PT-03-2023-U-LOLC/03-JavaScript/03-Algorithms"
+			"path": "../../../gitlab/NU-VIRT-FSF-PT-03-2023-U-LOLC/05-Third-Party-APIs"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "Develop"
+		"liveServer.settings.multiRootWorkspaceName": "28-Stu_Mini-Project"
 	}
 }
